@@ -1,0 +1,9 @@
+.bg_color{
+    background: rgb(20,0,36);
+    background: linear-gradient(90deg, rgba(20,0,36,1) 6%, rgba(75,9,121,1) 62%, rgba(128,0,255,1) 100%);
+}
+
+.alert_alert{
+    background-color: rgb(218, 45, 45);
+
+}
